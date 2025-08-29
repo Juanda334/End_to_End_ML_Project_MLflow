@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignoring the artifacts folder when pushing changes in the Git repository
+artifacts/*
